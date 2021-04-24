@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielBarcelos1/TipesScriptAlura.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielBarcelos1/TipesScriptAlura/issues"
+  },
+  "homepage": "https://github.com/GabrielBarcelos1/TipesScriptAlura#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
